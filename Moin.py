@@ -258,4 +258,4 @@ while True:
     try:
         bot.polling(none_stop=True)
     except Exception as e:
-        print(e)t(e)nt(e)t(e)
+        print(e)nt(e)nt(e)nt(e)
